@@ -1,9 +1,8 @@
+#EXTM3U
+
 #EXTINF:-1, DREIKOTV CANAL 24/7
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
-#EXTINF:0 tvg-logo="", Discovery ID
-http://ipeteve.com/php/th.php?channel=id145d&f.m3u8
-#EXTINF:0 tvg-logo="", RCN
-https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+
 #EXTINF:0 tvg-logo="", Locomotion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:0 tvg-logo="", 93.3 FM
@@ -394,7 +393,7 @@ http://ipeteve.com/php/SR_REGIO_190721/tp.php?c=1252&p=3&k=srregio&f=.m3u8
 http://ipeteve.com/php/SR_REGIO_190721/tp.php?c=1449&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, EL FINANCIERO HD 
 http://ipeteve.com/php/SR_REGIO_190721/tp.php?c=1649&p=3&k=srregio&f=.m3u8  
- #EXTINF:-1, RT ESPAÑOL
+#EXTINF:-1, RT ESPAÑOL
 http://ipeteve.com/php/SR_REGIO_190721/tp.php?c=2091&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, FRANCE 24
 http://ipeteve.com/php/SR_REGIO_190721/tp.php?c=2402&p=3&k=srregio&f=.m3u8 
