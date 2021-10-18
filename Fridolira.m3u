@@ -4,10 +4,7 @@
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MULTIMEDIOS MTY
 http://regioplay.xyz/php/SR_REGIO_310112_/multimedios.php?f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", NET TV
-http://regioplay.xyz/php/SR_REGIO_310112_/nettv.php?f=.m3u8
-#EXTINF:-1  tvg-id="Lista TV", Star Channel
-https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", LA 2
 https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", RT ESPANOL
@@ -26,8 +23,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 *** NACIONALES ***
 #EXTINF:-1, ONCE NINOS (CLASES)
 http://regioplay.xyz/php/SR_REGIO_310112_/tp.php?c=3315&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, AZTECA 7.3 (CLASES)
-http://regioplay.xyz/php/SR_REGIO_310112_/tp.php?c=3316&p=3&k=srregio&f=.m3u8 
+
 #EXTINF:-1, AZTECA UNO HD
 http://regioplay.xyz/php/SR_REGIO_310112_/tp.php?c=7&p=3&k=srregio&f=.m3u8
 #EXTINF:-1, AZ CLIC HD
