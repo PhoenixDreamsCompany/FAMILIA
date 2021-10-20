@@ -2,14 +2,12 @@
 
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", DREIKO TV
 http://regioplay.xyz/php/SR_REGIO_910112_/dreiko.php?f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", KANADE TV
-https://kanadetvlatino-usct.streaming.media.azure.net/66afd58d-114f-48d5-bc00-aa6cd5203912/80e7baff-9e17-4bad-8058-93e7160fe85a.ism/manifest(format=m3u8-aapl)
+
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MULTIMEDIOS MTY
 http://regioplay.xyz/php/SR_REGIO_910112_/multimedios.php?f=.m3u8
-#EXTINF:-1   group-title="Lista TV" tvg-id="Lista TV", WOW TV
-https://regioplay.xyz/php/SR_REGIO_910112_/wowtv.php
+
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", NET TV
 http://regioplay.xyz/php/SR_REGIO_910112_/nettv.php?f=.m3u8
 #EXTINF:-1  tvg-id="Lista TV", Star Channel
