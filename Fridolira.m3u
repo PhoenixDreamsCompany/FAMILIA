@@ -1,7 +1,8 @@
 #EXTM3U
 
-
 **NUEVOS**
+#EXTINF:-1, Cine MARVEL 24/7
+https://shortgod.com/vip/pl30aaaa048.php?id=697&f=.m3u8
 #EXTINF:-1, Logos TV
 http://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 #EXTINF:-1, Tevex
@@ -9,23 +10,17 @@ https://v4.tustreaming.cl/tevexinter/index.m3u8
 #EXTINF:-1, Tierra Mía
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
 #EXTINF:-1, Tlaxcala Televisión
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
 #EXTINF:-1, TN 23
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal23.smil/playlist.m3u8
 #EXTINF:-1, El Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1, Tastemade en Español
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1, TCS HD
-https://secure-video.tcsgo.com/tcshd/index.m3u8
 #EXTINF:-1, Cultura 24 TV
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 #EXTINF:-1, San Isidro TV
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
-#EXTINF:-1, Canal IPE
-https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1, Chinola TV
-https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 #EXTINF:-1, Top Cine
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1, Ten TV
@@ -34,452 +29,447 @@ http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1, MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1  logo="https://wowly.stream/img/letterlogo.png" group-title="Lista TV" tvg-id="Lista TV", Wowly 360p
-https://wowly.stream/hls/stream_low/index.m3u8
-#EXTINF:-1  logo="https://wowly.stream/img/letterlogo.png" group-title="Lista TV" tvg-id="Lista TV", Wowly 720p
-https://wowly.stream/hls/stream_src/index.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", CGTN Esp
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Top Cine Latam
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=top-cine-latam&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Saber mas
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=saber-mas&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Tu Cine Latam
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=tu-cine-latam&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Flash
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=flash-1&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", El conflicto TV
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=el-conflicto-tv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Chiquilines
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=chiquilines&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Juntos
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=juntos&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Cine Sureno
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=cine-sureno&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Cine Real
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=cine-real-latam&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Casa Comedy
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=casa-comedy&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Spanglish
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=spanglish&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Euronews N
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=euronews-spa&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Horrorfy
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=horrorfy&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", WappTV
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=wapptv&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MMC
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=mmc&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Glewed TV 
-https://regioplay.xyz/php/SR_REGIO_526022_/distroregio.php?c=glewedtv-spanish&f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", Claro Sports
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", ENERGEEK
-https://regioplay.xyz/php/SR_REGIO_526022_/energeek.php?f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", ENERGEEK 2
-https://regioplay.xyz/php/SR_REGIO_526022_/energeek2.php?f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", LATINO KIDS
+
+**2022**
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8DWQeMz.png" group-title="Animation",Anime Zone TV  
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Animation",Locomotion TV  
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="Tevex.cl" tvg-country="CL;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sj4sEaN.png" group-title="Business",Tevex (720p)  
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="Classic",Classic Arts Showcase
+https://gcamhls02-i.akamaihd.net/hls/live/1024257/ClassicArts/master.m3u8
+#EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Comedy",SoloStandUp  
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN Documentary (576p)
+http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/XJGki3v.png" group-title="Documentary",RT Documentary (1080p) [Geo-blocked]
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="DemandAfricaMexico.us" tvg-country="MX" tvg-language="English" tvg-logo="https://i.imgur.com/sr5vC8z.jpg" group-title="Entertainment",Demand Africa (Mexico) (1080p)
+https://demandafrica-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-country="CL;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ukT8LT0.png" group-title="Entertainment",EnerGeek (720p)  
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeek2.cl" tvg-country="CL;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ukT8LT0.png" group-title="Entertainment",EnerGeek Señal 2 (720p)  
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinoKids.uy" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Entertainment",LatinoKids (360p)  
 https://videostreaming.cloudserverlatam.com/8062/8062/playlist.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", ANIPLUS
-https://regioplay.xyz/php/SR_REGIO_526022_/aniplus.php?f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", EL CHAVO TV
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", DREIKO TV
-http://regioplay.xyz/php/SR_REGIO_526022_/SR_REGIO_526022_/dreiko.php?f=.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MULTIMEDIOS MTY
-http://regioplay.xyz/php/SR_REGIO_526022_/SR_REGIO_526022_/multimedios.php?f=.m3u8
-#EXTINF:-1   group-title="Lista TV" tvg-id="Lista TV", WOW TV
-https://regioplay.xyz/php/SR_REGIO_526022_/wowtv.php
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", NET TV
-http://regioplay.xyz/php/SR_REGIO_526022_/SR_REGIO_526022_/nettv.php?f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", RT ESPANOL
-https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA UNO
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7.2
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", ADN40
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-country="INT" tvg-language="English;Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="General",KBS World (720p)
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SEOTV.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="General",SEO TV (720p)  
+https://panel.seo.tv.bo:3645/live/franzleonel0live.m3u8
+#EXTINF:-1 tvg-id="SEOTVNovelas.bo" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Series",SEO TV Novelas (540p)  
+https://panel.seo.tv.bo:3337/live/franzbalboa2live.m3u8
+#EXTINF:-1 tvg-id="SintesisTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/FJPDf2K.png" group-title="General",SintesisTV  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/sintesistv
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="General",TV Perú Internacional (460p)  
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-country="ES;HISPAM" tvg-language="Galician" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="General",TVG América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMInternacional.mz" tvg-country="INT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Ns3WrOQ.png" group-title="General",TVM Internacional  
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WorldFashionChannelInternational.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/JyslMHb.jpg" group-title="Lifestyle",World Fashion Channel (1080p)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1 tvg-id="Moovimex.us" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mty0mgJ.jpg" group-title="Movies",Moovimex (432p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="ConectaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9TGQZzk.png" group-title="Music",Conecta TV (720p)
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-country="HISPAM;PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/xvMDTe9.png" group-title="Music",Radio San Borja TV (720p)  
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/VMMNhkf.png" group-title="Music",Top Latino TV (404p)  
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-country="HISPAM;US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/svgW3Fr.png" group-title="Music",Vallenato Internacional (720p)  
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+
+
+++revisar++
+#EXTINF:-1 tvg-id="K18JLD2.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="Religious",3ABN Latino (720p)  
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="News",ADN 40 (480p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", VIDEOROLA
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", REWIND TV
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", La 2
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-
-#EXTINF:-1 group-title="Lista MX", AZ CLIC HD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=11&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", LAS ESTRELLAS
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=17&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CANAL 5
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=20&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AZTECA 7
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=21&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NU9VE
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=24&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ONCE
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=25&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AZTECA UNO
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=27&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TELEFORMULA SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=32&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", MEXIQUENSE TV
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=44&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AZ CORAZON 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=70&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", AZ MUNDO
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=84&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", AZTECA 7 HD 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=317&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", AZTECA 7 HD (2)
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=322&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", IMAGEN TV  
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2298&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", MULTIMEDIOS MTY
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2305&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", APREDNE TV
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=401&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", MULTIMEDIOS CDMX
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1253&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NU9VE HD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1783&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", LAS ESTRELLAS HD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1784&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", CANAL 5 HD (2)
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1785&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ONCE HD 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1942&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", MVS TV
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2149&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", TVC
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2156&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", CANAL 4 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2274&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", CANAL 8
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2307&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", TELEVISA PUEBLA
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2312&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", A+ 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2316&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", TVMAS
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2324&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", CANAL DEL CONGRESO
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2331&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", MULTIMEDIOS CDMX
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2352&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", IMAGEN TV HD  
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2606&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", ACADEMIA
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2703&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", MULTIMEDIOS HD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2882&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-
-
-*** INFANTILES ***
-#EXTINF:-1 group-title="Lista MX", TOONCAST
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=108&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", DISCOVERY KIDS
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=109&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", NICK
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=110&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", DISNEY XD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=111&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", CARTOON NETWORK
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=112&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", DISNEY CHANNEL
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=113&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", BOOMERANG
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=115&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", BABY TV 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=116&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", NICK JR
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=117&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", DISNEY JR
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=118&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NICKTOONS SD 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1708&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", BABY FIRST
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1984&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", NICK 2  
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2147&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", NAT GEO KIDS  
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2373&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", BIT ME  
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2591&p=3&k=SrRegio&token=regioplay&f=.m3u8
-
-*** CINE ***
-#EXTINF:-1 group-title="Lista MX", TBS SD  
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=81&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DE PELICULA + 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=121&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", GOLDEN +
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=122&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", GOLDEN
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=123&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", GOLDEN EDGE
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=124&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TNT 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=126&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", TCM
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=128&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", SPACE
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=129&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", AMC 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=131&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", STUDIO UNIVERSAL
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=132&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", I SAT  
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=135&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", EUROPA CHANNEL 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=136&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", FILMS & ARTS
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=137&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", FXM
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=138&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", FXM SD 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=332&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", STAR SERIES
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=139&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", MORBIDO
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=140&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", STAR MOVIES 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=146&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", CINECANAL
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=149&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", CINEMAX 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=158&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AMC  
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=328&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", DE PELICULA SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=335&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", STAR ACTION
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=336&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", PARAMOUNT CHANNEL 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1726&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", STAR CINEMA SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1729&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", STAR CLASSICS SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1732&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AZ CINEMA 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1787&p=3&k=SrRegio&token=regioplay&f=.m3u8 
-
-*** ENTRETENIMIENTO ***
-#EXTINF:-1 group-title="Lista MX", TELEMUNDO INTERNACIONAL HD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=85&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", STAR  
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=46&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", SONY  
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=48&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", WARNER TV  
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=52&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", E!
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=55&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", UNIVERSAL
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=57&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", SYFY
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=59&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", FX
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=60&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", A&E
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=62&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", AXN
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=64&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", UNICABLE SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=66&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", SUNDANCE TV
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=69&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TNT SERIES
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=71&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", GLITZ
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=76&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", GOURMET 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=74&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", STAR LIFE
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=77&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", DISTRITO COMEDIA SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=78&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", TRUTV
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=79&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TL NOVELAS SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=83&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", LIFETIME 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=94&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ANTENA 3
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=199&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", STAR HD 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=201&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", WARNER TV HD 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=205&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", UNIVERSAL HD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=207&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", FX HD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=209&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TRUTV HD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=215&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", HOLA TV HD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=219&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", COMEDY CENTRAL
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=340&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", COMEDY CENTRAL SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=341&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", UNICABLE
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1499&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", MAS CHIC
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1842&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", A3SERIES
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2113&p=3&k=SrRegio&token=regioplay&f=.m3u8 
-
-*** DEPORTES ***
-#EXTINF:-1 group-title="Lista MX", ESPN + 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=167&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ESPN 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=168&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", ESPN 2
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=169&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", FOX SPORTS
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=170&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", FOX SPORTS 2
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=172&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", TUDN
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=174&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", FOX SPORTS 3 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=178&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", GOLF
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=179&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", AYM SPORTS
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=180&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ESPN 3 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=345&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", TUDN HD (2)
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1049&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ADRENALINA SPORTS HD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1799&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", LAS
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2089&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", HAVOC
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2148&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TVC DEPORTES
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2157&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", CLARO SPORTS HD  
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2564&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", FUEL TV HD 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2587&p=3&k=SrRegio&token=regioplay&f=.m3u8 
-
-*** CULTURALES ***
-#EXTINF:-1 group-title="Lista MX", DISCOVERY ID
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=68&p=3&k=SrRegio&token=regioplay&f=.m3u8  
- #EXTINF:-1 group-title="Lista MX", GARAGE TV 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=75&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", DISCOVERY CHANNEL
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=86&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", ANIMAL PLANET
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=88&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", HISTORY
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=89&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", NAT GEO  
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=91&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", NAT GEO WILD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=92&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DISCOVERY THEATER
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=95&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", H&H
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=96&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TLC
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=97&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DISCOVERY SCIENCE  
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=98&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", DISCOVERY CIVILIZATION
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=99&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", DISCOVERY WORLD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=101&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TVE
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=198&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", SHOPPING
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1943&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FOOD NETWORK 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2145&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", STAR  TVE 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2375&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DISCOVERY TURBO
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2379&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", CURIOSITY STREAM
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2594&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-
-*** MUSICA ***
-#EXTINF:-1 group-title="Lista MX", MTV LIVE
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=211&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", MTV
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=212&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", MTV HITS SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=213&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", VH1 CLASSIC SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=214&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", VH1 SD 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=217&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", TELEHIT URBANO SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=218&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", TELEHIT +
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=220&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", BANDAMAX SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=221&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", AZ CLIC
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=223&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", VH1 HD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=334&p=3&k=SrRegio&token=regioplay&f=.m3u8  
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",AgrotendenciaTV  
+https://inliveserver.com:1936/15506/15506/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="News",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",Alcarria TV (576p)  
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-country="HISPAM" tvg-language="English;Spanish" tvg-logo="https://i.imgur.com/49xCS0f.png" group-title="Undefined",AMC Latin America
+http://209.91.213.10:8088/play/a013
+#EXTINF:-1 tvg-id="AmericaSports.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GOQ9zOI.png" group-title="Sports",América Sports (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
+#EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias (720p)  
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="XHJKTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/1.1.png" group-title="Undefined",Azteca Uno (XHJK-TDT)  
+http://190.122.96.187:8888/http/002
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/rPzH88J.png" group-title="News",BBC News HD (720p) [Geo-blocked]
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="General",Canal 5 (480p)
+http://45.174.77.243:8000/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-country="MX-ROO" tvg-language="Spanish" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg" group-title="Undefined",Canal 10 Cancún (720p)  
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="XEWTTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://media.localbtv.com/images/sandiegobtv/logos/12.1.png" group-title="Undefined",Canal 12 (XETW-TDT) (1080p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/RN5wbXm.png" group-title="News",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal28.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lr4MZFg.png" group-title="Undefined",Canal 28 (720p)  
+https://api.new.livestream.com/accounts/3789491/events/8003011/live.m3u8
+#EXTINF:-1 tvg-id="Canal44.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/YDp8MlN.png" group-title="Undefined",Canal 44 Chihuahua (720p)  
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCatorce.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NbMUD67.png" group-title="Undefined",Canal Catorce (720p)
+https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
+#EXTINF:-1 tvg-id="Capital21.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/P1pHy3j.jpg" group-title="Undefined",Capital 21 (720p)  
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network Latin America
+http://209.91.213.10:8088/play/a00k
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-country="INT" tvg-language="Chinese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (576p)
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN Español (576p)  
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-country="LATAM;US" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
+http://209.91.213.10:8088/play/a014
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",CorTV (800p)
+https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="ES;HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Auto",El Garage TV  
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="EnlaceTV.cr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ba4wF0N.png" group-title="Religious",EnlaceTV (720p)  
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",Euronews en Español (720p)
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish
+https://euronews.alteox.app/hls/es_stream.m3u8
+#EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-country="ES;HISPAM" tvg-language="English" tvg-logo="https://comteco.com.bo/img/upload/canales/YRTcBp.png" group-title="Undefined",EWTN el Canal Católico (720p)  
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 English (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="News",France 24 Español (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
+#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EiGdG9p.png" group-title="Science",Hiperconectados Televisión (720p)
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1 tvg-id="HipodromodelasAmericas.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png" group-title="Undefined",Hipódromo de las Américas (480p) [Geo-blocked]
+http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
+#EXTINF:-1 tvg-id="ImagenMulticast.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KDZ50eC.jpg" group-title="Undefined",Imagen Multicast  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
+#EXTINF:-1 tvg-id="ImagenRadio.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/SINYy29.png" group-title="Undefined",Imagen Radio (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB0BUmdBOrH9mYU2ebs1eWA/live
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",Imagen TV (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x82z4if
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (1080p)
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Undefined",Jalisco TV (720p) [Geo-blocked]
+https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
+#EXTINF:-1 tvg-id="LaOctavaTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/qQjenrC.png" group-title="Undefined",La Octava TV (1080p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x80mow9
+#EXTINF:-1 tvg-id="MariaVision.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/maria_vision-mediano.png" group-title="Religious",María Visión Mexico (360p)  
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 tvg-id="MetroGlobeNetwork.id" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/NTCI3lf.png" group-title="Culture",Metro Globe Network (1080p)  
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MexicoTravelChannel.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/TnHaCDB.png" group-title="Travel",México Travel Channel  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7v76vf
+#EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/IjE1ORI.png" group-title="Undefined",Mexiquense TV (720p)  
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="Undefined",Milenio Televisión (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFxHplbcoJK9m70c4VyTIxg/live
+#EXTINF:-1 tvg-id="MonteMaria.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/OzVUVoX.jpg" group-title="Religious",Monte Maria (720p)
+https://rbaca.livestreamingcdn.com/envivo3/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/0bznKvP.jpg" group-title="Undefined",Multimedios Guadalajara (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Zj8mOEo.png" group-title="Undefined",Multimedios Laguna (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7OHMuRl.png" group-title="Undefined",Multimedios Monterrey (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",Multipremier (480p)
+http://201.168.205.12:8000/play/a0cp/index.m3u8
+#EXTINF:-1 tvg-id="NASATV.us" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/512px-NASA_TV.svg.png" group-title="Science",NASA TV (720p)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="NoticiasCanal10.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/y4akKrD.png" group-title="News",Noticias Canal 10 (360p)  
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Nuevo Tiempo (720p)  
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OnceMexico.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NAgRCyY.png" group-title="Undefined",Once Mexico (720p)
+https://d24sa4vr9gvjv.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",Once Niñas Y Niños
+http://jjooliveclarovideo.akamaized.net/Content/hls/Live/Channel(tveducationch01)/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Pluto TV Euronews (720p)  
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",POP TV (542p)  
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="QuieroTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/k0XbBp8.png" group-title="Undefined",Quiero TV  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8452uw
+#EXTINF:-1 tvg-id="RCGTV2.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="Undefined",RCG TV 2 (360p)  
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:-1 tvg-id="RCGTV3.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hzJu6QT.png" group-title="Undefined",RCG TV 3 (360p)  
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+#EXTINF:-1 tvg-id="RCGTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1qrh5SC.png" group-title="Undefined",RCG TV (1080p)
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English;German" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sports",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-country="INT" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT en Español (1080p) [Geo-blocked]
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNews.ru" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT News (1080p) [Geo-blocked]
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-country="INT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Internacional (504p)  
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTQQueretaro.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/H1AFRJh.png" group-title="Undefined",RTQ Queretaro (360p)  
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-country="DO;LATAM" tvg-language="Spanish" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="General",San Isidro TV (360p)  
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="SEAToday.id" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="Undefined",Sea Today (720p) [Geo-blocked]
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+#EXTINF:-1 tvg-id="TelevisaPuebla.mx" tvg-country="MX-PUE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="Undefined",SET Televisión Canal 26.1 (720p)  
+http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
+#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-country="INT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UgJ5lac.png" group-title="Undefined",SIC Internacional (720p)
+http://live.impresa.pt/live/sicint/sicint.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",TELE SISTEMA CANAL 9 (486p) [Geo-blocked]
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/teleformula-mediano.png" group-title="Undefined",TeleFórmula
+https://mdstrm.com/live-stream-playlist/61e1e088d04d7744686afc42.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",Telefórmula (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7u0spq
+#EXTINF:-1 tvg-id="XEWHTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/bjGgLrA.jpg" group-title="Undefined",Telemax (XEWH-TDT) (720p)
+http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Undefined",Teleritmo (720p) [Geo-blocked]
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-country="HISPAM;VE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/512px-TeleSUR-Logo.svg.png" group-title="News",teleSUR (1080p)
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+#EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" tvg-country="MX-AGU" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iVF17fh.png" group-title="Undefined",Televisa Aguascalientes (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5ZtV3bu3bjSuOLoA6oCFIg/live
+#EXTINF:-1 tvg-id="TelevisaChihuahua.mx" tvg-country="MX-CHH" tvg-language="Spanish" tvg-logo="https://i.imgur.com/CAuAu0Z.png" group-title="Undefined",Televisa Chihuahua (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCjfxDe7In59Jbfw2HmIh_Vg/live
+#EXTINF:-1 tvg-id="TelevisaCiudadJuarez.mx" tvg-country="MX-CHH" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4vEFJxf.png" group-title="Undefined",Televisa Ciudad Juarez (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCot4t8PVKz8TT5xVM8Eb00w/live
+#EXTINF:-1 tvg-id="TelevisaDelGolfo.mx" tvg-country="MX-TAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/35fsRTS.jpg" group-title="Undefined",Televisa Del Golfo
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQ08tNTPiBn44c975S81ftg/live
+#EXTINF:-1 tvg-id="TelevisaEstado.mx" tvg-country="MX-CMX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/gyZCypH.png" group-title="Undefined",Televisa Estado (1080p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9DH82HVSf4katwMeUpY80w
+#EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" tvg-country="MX-JAL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Vp4B0BM.jpg" group-title="Undefined",Televisa Guadalajara (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
+#EXTINF:-1 tvg-id="TelevisaGuerrero.mx" tvg-country="MX-GRO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/lOAnjFs.png" group-title="Undefined",Televisa Guerrero  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w/live
+#EXTINF:-1 tvg-id="TelevisaLaguna.mx" tvg-country="MX-COA" tvg-language="Spanish" tvg-logo="https://i.imgur.com/L4GDHQm.png" group-title="Undefined",Televisa Laguna (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC_mwCcsKDJLSWjply5s0h8w/live
+#EXTINF:-1 tvg-id="TelevisaMexicali.mx" tvg-country="MX-BCN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/NIEWc2s.jpg" group-title="Undefined",Televisa Mexicali (1080p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q/live
+#EXTINF:-1 tvg-id="TelevisaMonterrey.mx" tvg-country="MX-NLE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/ierlYM1.jpg" group-title="Undefined",Televisa Monterrey (1080p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
+#EXTINF:-1 tvg-id="TelevisaMorelos.mx" tvg-country="MX-MOR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/QiJoBVs.png" group-title="Undefined",Televisa Morelos
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcC9ykApQrgl4UxbKg2U4zw/live
+#EXTINF:-1 tvg-id="TelevisaNewsMexico.mx" tvg-country="MX-MEX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/KVc1hqI.png" group-title="News",Televisa News Mexico (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUsm-fannqOY02PNN67C0KA/live
+#EXTINF:-1 tvg-id="TelevisaNoreste.mx" tvg-country="MX-TAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/rHCKwYB.jpg" group-title="Undefined",Televisa Noreste  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC752DYv5vPlTSMrvEjfZXcw/live
+#EXTINF:-1 tvg-id="TelevisaPiedrasNegras.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/fEtvxpz.jpg" group-title="Undefined",Televisa Piedras Negras (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCxK8C1E8UZ5RipNXIBYEvTA/live
+#EXTINF:-1 tvg-id="TelevisaQueretaro.mx" tvg-country="MX-QUE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/47c1AIS.png" group-title="Undefined",Televisa Queretaro
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC9QNz6VS3gGz55dzxAQtgtA/live
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",Televisa San Luis Potosí (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCaRuyaHshLdq462E9_pLzdA/live
+#EXTINF:-1 tvg-id="TelevisaSinaloa.mx" tvg-country="MX-SIN" tvg-language="Spanish" tvg-logo="https://i.imgur.com/nZ9HE94.png" group-title="Undefined",Televisa Sinaloa
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ/live
+#EXTINF:-1 tvg-id="TelevisaSonora.mx" tvg-country="MX-SON" tvg-language="Spanish" tvg-logo="https://i.imgur.com/3FjHKAC.jpg" group-title="Undefined",Televisa Sonora (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCyzWMHGS7bs0sot6KZk5EZg/live
+#EXTINF:-1 tvg-id="TelevisaVeracruz.mx" tvg-country="MX-VER" tvg-language="Spanish" tvg-logo="https://i.imgur.com/4hPbfbg.png" group-title="Undefined",Televisa Veracruz (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC5EnLdE7ASjYzWt7wvT-QSg/live
+#EXTINF:-1 tvg-id="TelevisaZacatecas.mx" tvg-country="MX-ZAC" tvg-language="Spanish" tvg-logo="https://i.imgur.com/vsbl0u6.png" group-title="Undefined",Televisa Zacatecas (720p)  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCQb3i7gu9J8A4zzQU7j6C1Q/live
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",Tlaxcala Televisión (360p)  
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?token=null
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",TRT World (720p)  
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TruTVAmericaLatina.us" tvg-country="HISPAM" tvg-language="English;Portuguese;Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/ar_tru-tv_m.png" group-title="Undefined",Tru TV América Latina
+http://190.61.37.173:9001/play/a084/index.m3u8
+#EXTINF:-1 tvg-id="TVLobo.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/XZ8GmZW.png" group-title="Undefined",TV Lobo (720p)  
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",TV Unam (720p)
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Undefined",TVMÁS (XHGV-TDT) (360p)  
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVP.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="Undefined",TVP (720p)  
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="MX" tvg-language="" tvg-logo="" group-title="Undefined",TVP Culiacán (720p)  
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPLosMochis.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="Undefined",TVP Los Mochis (720p)  
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPObregon.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mw4992J.png" group-title="Undefined",TVP Obregón (542p)  
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="UCL.uy" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/e3HF2Eu.png" group-title="Undefined",UCL TV (360p)  
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
+#EXTINF:-1 tvg-id="UDGTV.mx" tvg-country="MX" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hEOaiMd.png" group-title="General",UDG44 TV  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x3m1xfy
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/lPyJhBN.png" group-title="News",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="VPItv.ve" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="News",VPItv  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="INT" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Sports",World Poker Tour (1080p)  
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
 
-*** NOTICIAS ***
-#EXTINF:-1 group-title="Lista MX", FOROTV HD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=4&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FOROTV SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=19&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ADN40
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=40&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", ADN 40 HD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=184&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", CNN
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=185&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", CNN SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=186&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", CNN Ñ SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=187&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", WOBI 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=102&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FOXN EWS
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=188&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", BLOOMBERG 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=190&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", BBC SD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=191&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", AL JAAZERA 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=192&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", NTN 24
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=194&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", JUSTICIA TV 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=196&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", HLN
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=197&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", DW 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=203&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", RT
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=999&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", MILENIO HD
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1250&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", MILENIO SD 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1252&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", EXCELSIOR TV
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1449&p=3&k=SrRegio&token=regioplay&f=.m3u8  
-#EXTINF:-1 group-title="Lista MX", EL FINANCIERO HD 
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=1649&p=3&k=SrRegio&token=regioplay&f=.m3u8  
- #EXTINF:-1 group-title="Lista MX", RT ESPAÑOL
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2091&p=3&k=SrRegio&token=regioplay&f=.m3u8
-#EXTINF:-1 group-title="Lista MX", FRANCE 24
-http://srregio.net/php/SR_REGIO_526022_/tpnuevo01.php?c=2402&p=3&k=SrRegio&token=regioplay&f=.m3u8 
+
+
+***BG***
+
+#EXTINF:-1 group-title="Lista 42",21 - 252 ComedyC
+http://190.61.102.67:31589/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Lista 42",23 - 290 CartoonNetwork
+http://190.61.102.67:31589/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Lista 42",25-292 Discovery kids
+http://190.61.102.67:31589/play/a015/index.m3u8
+#EXTINF:-1 group-title="Lista 42",27-286 NICKELODEON
+http://190.61.102.67:31589/play/a014/index.m3u8
+#EXTINF:-1 group-title="Lista 42",29-236 DH&H
+http://190.61.102.67:31589/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Lista 42",30-214 TNTSE
+http://190.61.102.67:31589/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Lista 42",31-370 TNT
+http://190.61.102.67:31589/play/a018/index.m3u8
+#EXTINF:-1 group-title="Lista 42",208 SONY
+http://190.61.102.67:31589/play/a002/index.m3u8
+#EXTINF:-1 group-title="Lista 42",101 Uno
+http://190.61.102.67:31589/play/a04p/index.m3u8
+#EXTINF:-1 group-title="Lista 42",102 CANAL DE LAS ESTRELLAS
+http://190.61.102.67:31589/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Lista 42",103 Imagen
+http://190.61.102.67:31589/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Lista 42",105 Cinco
+http://190.61.102.67:31589/play/a038/index.m3u8
+#EXTINF:-1 group-title="Lista 42",106 Multimedios
+http://190.61.102.67:31589/play/a039/index.m3u8
+#EXTINF:-1 group-title="Lista 42",107 Siete
+http://190.61.102.67:31589/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Lista 42",111 ONCE
+http://190.61.102.67:31589/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Lista 42",114 Canal 14
+http://190.61.102.67:31589/play/a044/index.m3u8
+#EXTINF:-1 group-title="Lista 42",120 UNAM
+http://190.61.102.67:31589/play/a045/index.m3u8
+#EXTINF:-1 group-title="Lista 42",122 Canal22
+http://190.61.102.67:31589/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Lista 42",145 Congreso
+http://190.61.102.67:31589/play/a046/index.m3u8
+#EXTINF:-1 group-title="Lista 42",151 CV Shoping
+http://190.61.102.67:31589/play/a011/index.m3u8
+#EXTINF:-1 group-title="Lista 42",152 MVSTV
+http://190.61.102.67:31589/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Lista 42",154 EXE TV
+http://190.61.102.67:31589/play/a06e/index.m3u8
+#EXTINF:-1 group-title="Lista 42",158 MC
+http://190.61.102.67:31589/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Lista 42",160 MultiPremiere
+http://190.61.102.67:31589/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Lista 42",162 CINELATINO
+http://190.61.102.67:31589/play/a05v/index.m3u8
+#EXTINF:-1 group-title="Lista 42",206 Universal
+http://190.61.102.67:31589/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Lista 42",210 WB
+http://190.61.102.67:31589/play/a01f/index.m3u8
+#EXTINF:-1 group-title="Lista 42",222 AXN
+http://190.61.102.67:31589/play/a05y/index.m3u8
+#EXTINF:-1 group-title="Lista 42",224 FX
+http://190.61.102.67:31589/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Lista 42",226 Space MX
+http://190.61.102.67:31589/play/a04x/index.m3u8
+#EXTINF:-1 group-title="Lista 42",230 A&E
+http://190.61.102.67:31589/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Lista 42",234 Investigation Discovery La
+http://190.61.102.67:31589/play/a04y/index.m3u8
+#EXTINF:-1 group-title="Lista 42",240 TLC
+http://190.61.102.67:31589/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Lista 42",242 Lifetime
+http://190.61.102.67:31589/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Lista 42",246 HOLA
+http://190.61.102.67:31589/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Lista 42",248 E!
+http://190.61.102.67:31589/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Lista 42",250 TBS
+http://190.61.102.67:31589/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Lista 42",264 EXETV
+http://190.61.102.67:31589/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Lista 42",266 MejorTV
+http://190.61.102.67:31589/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Lista 42",268 VideRola
+http://190.61.102.67:31589/play/a04c/index.m3u8
+#EXTINF:-1 group-title="Lista 42",276 TELER
+http://190.61.102.67:31589/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Lista 42",280 OnceKids
+http://190.61.102.67:31589/play/a04f/index.m3u8
+#EXTINF:-1 group-title="Lista 42",282 DisneyJR
+http://190.61.102.67:31589/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Lista 42",285 - Nick Music
+http://190.61.102.67:31589/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Lista 42",288 EXE TV
+http://190.61.102.67:31589/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Lista 42",304 AprendeTV2
+http://190.61.102.67:31589/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Lista 42",306 IngenioTV
+http://190.61.102.67:31589/play/a04i/index.m3u8
+#EXTINF:-1 group-title="Lista 42",308 Discovery
+http://190.61.102.67:31589/play/a03x/index.m3u8
+#EXTINF:-1 group-title="Lista 42",312 NatGeo
+http://190.61.102.67:31589/play/a01l/index.m3u8
+#EXTINF:-1 group-title="Lista 42",318 History
+http://190.61.102.67:31589/play/a017/index.m3u8
+#EXTINF:-1 group-title="Lista 42",320 History2
+http://190.61.102.67:31589/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Lista 42",322 Arts
+http://190.61.102.67:31589/play/a04j/index.m3u8
+#EXTINF:-1 group-title="Lista 42",336 Claro Sport
+http://190.61.102.67:31589/play/a053/index.m3u8
+#EXTINF:-1 group-title="Lista 42",338 ESPN 2
+http://190.61.102.67:31589/play/a063/index.m3u8
+#EXTINF:-1 group-title="Lista 42",342 ESPN
+http://190.61.102.67:31589/play/a064/index.m3u8
+#EXTINF:-1 group-title="Lista 42",344 ESPN3
+http://190.61.102.67:31589/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Lista 42",350 CNNE
+http://190.61.102.67:31589/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Lista 42",353 RT
+http://190.61.102.67:31589/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Lista 42",356 Milenio
+http://190.61.102.67:31589/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Lista 42",358 TVC
+http://190.61.102.67:31589/play/a04m/index.m3u8
+#EXTINF:-1 group-title="Lista 42",360 Judicial
+http://190.61.102.67:31589/play/a04n/index.m3u8
+#EXTINF:-1 group-title="Lista 42",372 MC
+http://190.61.102.67:31589/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Lista 42",378 CineCanal O
+http://190.61.102.67:31589/play/a04q/index.m3u8
+#EXTINF:-1 group-title="Lista 42",384 Films
+http://190.61.102.67:31589/play/a08i/index.m3u8
+#EXTINF:-1 group-title="Lista 42",386 StudioUniversal
+http://190.61.102.67:31589/play/a04o/index.m3u8
+#EXTINF:-1 group-title="Lista 42",388 Paramount
+http://190.61.102.67:31589/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Lista 42",AGROTENDENCIA
+http://190.61.102.67:31589/play/a08b/index.m3u8
+#EXTINF:-1 group-title="Lista 42",BANDAMAX
+http://190.61.102.67:31589/play/a08h/index.m3u8
+#EXTINF:-1 group-title="Lista 42",GOLDEN EDGE
+http://190.61.102.67:31589/play/a08k/index.m3u8
+#EXTINF:-1 group-title="Lista 42",SKY
+http://190.61.102.67:31589/play/a08m/index.m3u8
+#EXTINF:-1 group-title="Lista 42",TELENOVELAS
+http://190.61.102.67:31589/play/a08d/index.m3u8
+#EXTINF:-1 group-title="Lista 42",TN23
+http://190.61.102.67:31589/play/a08g/index.m3u8
+#EXTINF:-1 group-title="Lista 42",TUDN
+http://190.61.102.67:31589/play/a08j/index.m3u8
+#EXTINF:-1 group-title="Lista 42",UNICABLE
+http://190.61.102.67:31589/play/a08f/index.m3u8
+
+
+
+
+
+
+
+
