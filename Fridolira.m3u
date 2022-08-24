@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1, FOX SPORTS PREMIUM
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/12_.m3u8?token=y2rqpzWXtuGSpF1GEWVUyg&expires=1661323167&ip=153.92.6.72
+
 #EXTINF:-1 group-title="Lista 42",21 - 252 ComedyC
 http://190.61.102.67:31589/play/a04a/index.m3u8
 #EXTINF:-1 group-title="Lista 42",23 - 290 CartoonNetwork
